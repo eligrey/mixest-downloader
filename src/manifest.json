@@ -1,0 +1,16 @@
+{
+	"name": "Mixest Downloader",
+	"version": "1.0",
+	"description": "Adds download functionality to mixest.com.",
+	"icons": {
+		  "16": "images/mixest-favicon.png"
+		, "48": "images/mixest-48.png"
+		, "128": "images/mixest-128.png"
+	},
+	"content_scripts": [{
+		  "matches": ["http://*.mixest.com/*"]
+		, "js": ["mixest-downloader.js"]
+		, "css": ["mixest-downloader.js"]
+		, "run_at": "document_idle"
+	}]
+}
