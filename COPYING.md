@@ -26,9 +26,3 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
   [Elijah Grey]: http://eligrey.com
-
-
-Images
-------
-
-The Mixest logo is copyright &copy; mixest.com.
