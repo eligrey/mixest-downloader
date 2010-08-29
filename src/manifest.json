@@ -1,6 +1,6 @@
 {
 	"name": "Mixest Downloader",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Adds download functionality to mixest.com.",
 	"content_scripts": [{
 		  "matches": ["http://*.mixest.com/*"]
